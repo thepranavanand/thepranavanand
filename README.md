@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Pranav Anand</h1>
-<h3 align="center">Using keyboard to conjure up magic in the form of code.</h3>
+<h3 align="center">Competitive Coder | Web Developer | Sophomore.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c63a355b-320b-4545-bb1a-2784c5e61b8d/d9cczgw-51fe2036-7a4c-4138-91b6-1890dae8c1a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M2M2EzNTViLTMyMGItNDU0NS1iYjFhLTI3ODRjNWU2MWI4ZFwvZDljY3pndy01MWZlMjAzNi03YTRjLTQxMzgtOTFiNi0xODkwZGFlOGMxYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9XbJtX5biFGjrjeIK74GZrt_bXSI96KYyxE14ddfnGY">
 
