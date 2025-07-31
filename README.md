@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepranavanand&label=Profile%20views&color=0e75b6&style=flat" alt="thepranavanand" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thepranavanand" target="blank"><img src="https://img.shields.io/twitter/follow/thepranavanand?logo=twitter&style=for-the-badge" alt="thepranavanand" /></a> </p>
-
 I'm Pranav Anand, a **Computer Science graduate** passionate about technology and innovation.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
