@@ -11,57 +11,57 @@
 I'm Pranav Anand, a **Computer Science graduate** passionate about technology and innovation.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
-- [cite_start]📫 How to reach me: **thepranavanand@gmail.com** [cite: 3]
+- 📫 How to reach me: **thepranavanand@gmail.com**
 
 ---
 
 ### Education
 
 **Bachelor of Engineering in Computer Science and Engineering**
-*Chandigarh University, 2021 – 2025* | [cite_start]CGPA: 7.71/10.0 (Equivalent to 77.1%) [cite: 5, 6, 14]
+*Chandigarh University, 2021 – 2025* | CGPA: 7.71/10.0 (Equivalent to 77.1%)
 
 ---
 
 ### Key Highlights
 
-* [cite_start]**Codeforces:** Attained a peak rating of 1511 and secured Specialist title, placing consistently in the top 10% in multiple contests, including global rank 344 out of 21,836 in Round #1032. [cite: 27, 28]
-* [cite_start]**LeetCode:** Secured Knight rank (Top 6% globally) with a peak competition rating of 1848. Solved 500+ DSA problems and participated in 20+ coding contests. [cite: 29, 30]
-* [cite_start]**Codechef:** Achieved a max rating of 1615 and secured notable global ranks, including 62nd in Codechef Starters #100 and 141st in Codechef Starters #98. [cite: 31, 32]
+* **Codeforces:** Attained a peak rating of 1511 and secured Specialist title, placing consistently in the top 10% in multiple contests, including global rank 344 out of 21,836 in Round #1032.
+* **LeetCode:** Secured Knight rank (Top 6% globally) with a peak competition rating of 1848. Solved 500+ DSA problems and participated in 20+ coding contests.
+* **Codechef:** Achieved a max rating of 1615 and secured notable global ranks, including 62nd in Codechef Starters #100 and 141st in Codechef Starters #98.
 * **Runner-up at IIT Ropar Hackathon** (built a real-time health triage app)
 
 ---
 
 ### Skills
 
-* [cite_start]**Programming Languages:** C++, Java, Python, JavaScript, SQL [cite: 8]
-* [cite_start]**Web Development:** React, Tailwind CSS, ShadCN, HTML, CSS, TypeScript [cite: 9]
-* [cite_start]**Backend Technologies:** Node.js, Express.js, REST APIs, WebSockets, Socket.IO [cite: 9]
-* [cite_start]**Databases & Storage:** MySQL, MongoDB, MS SQL Server [cite: 9]
-* [cite_start]**Tools & Collaboration:** Git, GitHub, Postman [cite: 10]
-* [cite_start]**Software Development:** System Design, Agile (Scrum) [cite: 11]
+* **Programming Languages:** C++, Java, Python, JavaScript, SQL
+* **Web Development:** React, Tailwind CSS, ShadCN, HTML, CSS, TypeScript
+* **Backend Technologies:** Node.js, Express.js, REST APIs, WebSockets, Socket.IO
+* **Databases & Storage:** MySQL, MongoDB, MS SQL Server
+* **Tools & Collaboration:** Git, GitHub, Postman
+* **Software Development:** System Design, Agile (Scrum)
 
 ---
 
 ### Projects
 
-* **Conversa Real-Time Chat App** | [cite_start]React, Tailwind, Node.js, Express, MongoDB [cite: 13]
-    * [cite_start]Implemented WebSocket connection pooling supporting concurrent chat rooms for 200+ simultaneous users, achieving 99.9% uptime. [cite: 15]
-    * [cite_start]Integrated real-time file-sharing capability handling up to 100MB files, resulting in 40% faster collaboration and supporting 50+ simultaneous file transfers across rooms. [cite: 16]
-    * [cite_start]Engineered efficient file sharing system using Multer and MongoDB GridFS, implementing chunked uploads for files up to 100MB with progress tracking. [cite: 17]
-* **MultiThreaded Web Server with Dynamic Request Handling** | [cite_start]Java [cite: 18]
-    * [cite_start]Developed a server application demonstrating three different threading architectures (single-threaded, multi-threaded, and thread-pooled) using Java's socket programming and concurrency frameworks. [cite: 19]
-    * [cite_start]Implemented thread pooling and connection management to optimize server resources, supporting concurrent client connections with proper resource cleanup. [cite: 20]
-    * [cite_start]Designed simple client-server communication protocol with message exchange and connection handling, demonstrating scalability differences between threading approaches. [cite: 21]
-* **Get-Doctor** | [cite_start]Python, Streamlit, LLM Integration In Prototype: TypeScript, Next.js, Tailwind [cite: 22]
-    * [cite_start]Followed an Agile-inspired iterative approach with structured milestones and regular retrospection to guide redevelopment. [cite: 23]
-    * [cite_start]Implemented a doctor recommendation engine and rebuilt core system in TypeScript and Next.js, reducing symptom analysis time from 50s to under 2s. [cite: 24]
-    * [cite_start]Improved response time by 95% while maintaining 99% accuracy on 500+ queries using asynchronous processing, modular APIs, and feedback-based iterations to sharpen diagnostics and interface speed. [cite: 25]
+* **Conversa Real-Time Chat App** | React, Tailwind, Node.js, Express, MongoDB
+    * Implemented WebSocket connection pooling supporting concurrent chat rooms for 200+ simultaneous users, achieving 99.9% uptime.
+    * Integrated real-time file-sharing capability handling up to 100MB files, resulting in 40% faster collaboration and supporting 50+ simultaneous file transfers across rooms.
+    * Engineered efficient file sharing system using Multer and MongoDB GridFS, implementing chunked uploads for files up to 100MB with progress tracking.
+* **MultiThreaded Web Server with Dynamic Request Handling** | Java
+    * Developed a server application demonstrating three different threading architectures (single-threaded, multi-threaded, and thread-pooled) using Java's socket programming and concurrency frameworks.
+    * Implemented thread pooling and connection management to optimize server resources, supporting concurrent client connections with proper resource cleanup.
+    * Designed simple client-server communication protocol with message exchange and connection handling, demonstrating scalability differences between threading approaches.
+* **Get-Doctor** | Python, Streamlit, LLM Integration In Prototype: TypeScript, Next.js, Tailwind
+    * Followed an Agile-inspired iterative approach with structured milestones and regular retrospection to guide redevelopment.
+    * Implemented a doctor recommendation engine and rebuilt core system in TypeScript and Next.js, reducing symptom analysis time from 50s to under 2s.
+    * Improved response time by 95% while maintaining 99% accuracy on 500+ queries using asynchronous processing, modular APIs, and feedback-based iterations to sharpen diagnostics and interface speed.
 
 ---
 
 ### Certifications
 
-* [cite_start]**Algorithmic Toolbox** By University of California San Diego and Offered through Coursera [July 2024] [cite: 33, 34]
+* **Algorithmic Toolbox** By University of California San Diego and Offered through Coursera [July 2024]
 
 ---
 
