@@ -29,16 +29,6 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 * [**Codechef**](https://www.codechef.com/users/thepranavanand): Achieved a max rating of 1615 and secured notable global ranks, including 62nd in Codechef Starters #100 and 141st in Codechef Starters #98.
 * **Second Runner-up at IIT Ropar Hackathon** (built a real-time health triage app) [**Certificate**](https://drive.google.com/file/d/1JsQYHmC3NkNaAlmsGgfgY47vg3FlOLL-/view?usp=sharing)
 
----
-
-### Skills
-
-* **Programming Languages:** C++, Java, Python, JavaScript, SQL
-* **Web Development:** React, Tailwind CSS, ShadCN, HTML, CSS, TypeScript
-* **Backend Technologies:** Node.js, Express.js, REST APIs, WebSockets, Socket.IO
-* **Databases & Storage:** MySQL, MongoDB, MS SQL Server
-* **Tools & Collaboration:** Git, GitHub, Postman
-* **Software Development:** System Design, Agile (Scrum)
 
 ---
 
@@ -56,6 +46,17 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
     * Followed an Agile-inspired iterative approach with structured milestones and regular retrospection to guide redevelopment.
     * Implemented a doctor recommendation engine and rebuilt core system in TypeScript and Next.js, reducing symptom analysis time from 50s to under 2s.
     * Improved response time by 95% while maintaining 99% accuracy on 500+ queries using asynchronous processing, modular APIs, and feedback-based iterations to sharpen diagnostics and interface speed.
+
+---
+
+### Skills
+
+* **Programming Languages:** C++, Java, Python, JavaScript, SQL
+* **Web Development:** React, Tailwind CSS, ShadCN, HTML, CSS, TypeScript
+* **Backend Technologies:** Node.js, Express.js, REST APIs, WebSockets, Socket.IO
+* **Databases & Storage:** MySQL, MongoDB, MS SQL Server
+* **Tools & Collaboration:** Git, GitHub, Postman
+* **Software Development:** System Design, Agile (Scrum)
 
 ---
 
