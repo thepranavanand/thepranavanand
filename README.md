@@ -11,47 +11,63 @@
 I'm Pranav Anand, a **Computer Science graduate** passionate about technology and innovation.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 📫 How to reach me: **thepranavanand@gmail.com**
+- [cite_start]📫 How to reach me: **thepranavanand@gmail.com** [cite: 3]
 
 ---
 
 ### Education
 
 **Bachelor of Engineering in Computer Science and Engineering**
-*Chandigarh University, 2021 – 2025* | CGPA: 7.71/10.0 (Equivalent to 77.1%)
+*Chandigarh University, 2021 – 2025* | [cite_start]CGPA: 7.71/10.0 (Equivalent to 77.1%) [cite: 5, 6, 14]
 
 ---
 
 ### Key Highlights
 
-* **Top 6% Worldwide (Knight) on LeetCode**
-* **Specialist (Rated 1511) on Codeforces**
+* [cite_start]**Codeforces:** Attained a peak rating of 1511 and secured Specialist title, placing consistently in the top 10% in multiple contests, including global rank 344 out of 21,836 in Round #1032. [cite: 27, 28]
+* [cite_start]**LeetCode:** Secured Knight rank (Top 6% globally) with a peak competition rating of 1848. Solved 500+ DSA problems and participated in 20+ coding contests. [cite: 29, 30]
+* [cite_start]**Codechef:** Achieved a max rating of 1615 and secured notable global ranks, including 62nd in Codechef Starters #100 and 141st in Codechef Starters #98. [cite: 31, 32]
 * **Runner-up at IIT Ropar Hackathon** (built a real-time health triage app)
 
 ---
 
 ### Skills
 
-* **Programming Languages:** C++, Java, Python, JavaScript, SQL
-* **Web Development:** React, Tailwind CSS, HTML, CSS, TypeScript
-* **Backend Technologies:** Node.js, Express.js, REST APIs, WebSockets
-* **Databases & Storage:** MySQL, MongoDB
-* **Tools & Collaboration:** Git, GitHub, Postman
-* **Software Development:** System Design, Agile (Scrum)
+* [cite_start]**Programming Languages:** C++, Java, Python, JavaScript, SQL [cite: 8]
+* [cite_start]**Web Development:** React, Tailwind CSS, ShadCN, HTML, CSS, TypeScript [cite: 9]
+* [cite_start]**Backend Technologies:** Node.js, Express.js, REST APIs, WebSockets, Socket.IO [cite: 9]
+* [cite_start]**Databases & Storage:** MySQL, MongoDB, MS SQL Server [cite: 9]
+* [cite_start]**Tools & Collaboration:** Git, GitHub, Postman [cite: 10]
+* [cite_start]**Software Development:** System Design, Agile (Scrum) [cite: 11]
 
 ---
 
 ### Projects
 
-* **Multithreaded Java Web Server** - [Demo](https://example.com/java-web-server-demo) | [Code](https://github.com/thepranavanand/java-web-server)
-* **Multilingual Doctor Recommendation Engine** - [Demo](https://example.com/doctor-recommendation-demo) | [Code](https://github.com/thepranavanand/doctor-recommendation-engine)
+* **Conversa Real-Time Chat App** | [cite_start]React, Tailwind, Node.js, Express, MongoDB [cite: 13]
+    * [cite_start]Implemented WebSocket connection pooling supporting concurrent chat rooms for 200+ simultaneous users, achieving 99.9% uptime. [cite: 15]
+    * [cite_start]Integrated real-time file-sharing capability handling up to 100MB files, resulting in 40% faster collaboration and supporting 50+ simultaneous file transfers across rooms. [cite: 16]
+    * [cite_start]Engineered efficient file sharing system using Multer and MongoDB GridFS, implementing chunked uploads for files up to 100MB with progress tracking. [cite: 17]
+* **MultiThreaded Web Server with Dynamic Request Handling** | [cite_start]Java [cite: 18]
+    * [cite_start]Developed a server application demonstrating three different threading architectures (single-threaded, multi-threaded, and thread-pooled) using Java's socket programming and concurrency frameworks. [cite: 19]
+    * [cite_start]Implemented thread pooling and connection management to optimize server resources, supporting concurrent client connections with proper resource cleanup. [cite: 20]
+    * [cite_start]Designed simple client-server communication protocol with message exchange and connection handling, demonstrating scalability differences between threading approaches. [cite: 21]
+* **Get-Doctor** | [cite_start]Python, Streamlit, LLM Integration In Prototype: TypeScript, Next.js, Tailwind [cite: 22]
+    * [cite_start]Followed an Agile-inspired iterative approach with structured milestones and regular retrospection to guide redevelopment. [cite: 23]
+    * [cite_start]Implemented a doctor recommendation engine and rebuilt core system in TypeScript and Next.js, reducing symptom analysis time from 50s to under 2s. [cite: 24]
+    * [cite_start]Improved response time by 95% while maintaining 99% accuracy on 500+ queries using asynchronous processing, modular APIs, and feedback-based iterations to sharpen diagnostics and interface speed. [cite: 25]
+
+---
+
+### Certifications
+
+* [cite_start]**Algorithmic Toolbox** By University of California San Diego and Offered through Coursera [July 2024] [cite: 33, 34]
 
 ---
 
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thepranavanand" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thepranavanand" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thepranavanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thepranavanand" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thepranavanand" height="30" width="40" /></a>
@@ -60,27 +76,5 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 </p>
 
 ---
-
-### Languages and Tools:
-
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepranavanand&show_icons=true&locale=en&layout=compact" alt="thepranavanand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranavanand&" alt="thepranavanand" /></p>
