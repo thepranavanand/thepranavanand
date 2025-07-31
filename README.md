@@ -8,8 +8,8 @@
 
 I'm Pranav Anand, a **Computer Science graduate** passionate about technology and innovation.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 📫 How to reach me: **thepranavanand@gmail.com**
+- 💼 Actively seeking full-time New Graduate roles in Software Development
+- 📫 Reach me at: **thepranavanand@gmail.com**
 
 ---
 
