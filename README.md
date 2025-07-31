@@ -44,7 +44,7 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 
 ### Projects
 
-* **Conversa Real-Time Chat App** | React, Tailwind, Node.js, Express, MongoDB
+* [**Conversa Real-Time Chat App**](https://github.com/thepranavanand/Conversa) | React, Tailwind, Node.js, Express, MongoDB
     * Engineered execution graph panel for workflow visualization within chat conversations, enabling task dependency tracking, message linking, and project progression monitoring through interactive task lists integrated into the messaging interface.
     * Implemented WebSocket connection pooling supporting concurrent one-on-one chat sessions for 200+ simultaneous users, achieving 99.9% uptime through efficient socket management and real-time message delivery.
     * Integrated real-time file-sharing system handling up to 100MB files with dual storage architecture using Cloudinary and MongoDB GridFS, supporting 50+ concurrent file transfers across active user conversations with progress tracking.
