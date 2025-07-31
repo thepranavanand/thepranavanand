@@ -43,9 +43,9 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 ### Projects
 
 * **Conversa Real-Time Chat App** | React, Tailwind, Node.js, Express, MongoDB
-    * Implemented WebSocket connection pooling supporting concurrent chat rooms for 200+ simultaneous users, achieving 99.9% uptime.
-    * Integrated real-time file-sharing capability handling up to 100MB files, resulting in 40% faster collaboration and supporting 50+ simultaneous file transfers across rooms.
-    * Engineered efficient file sharing system using Multer and MongoDB GridFS, implementing chunked uploads for files up to 100MB with progress tracking.
+    * Engineered execution graph panel for workflow visualization within chat conversations, enabling task dependency tracking, message linking, and project progression monitoring through interactive task lists integrated into the messaging interface.
+    * Implemented WebSocket connection pooling supporting concurrent one-on-one chat sessions for 200+ simultaneous users, achieving 99.9% uptime through efficient socket management and real-time message delivery.
+    * Integrated real-time file-sharing system handling up to 100MB files with dual storage architecture using Cloudinary and MongoDB GridFS, supporting 50+ concurrent file transfers across active user conversations with progress tracking.
 * **MultiThreaded Web Server with Dynamic Request Handling** | Java
     * Developed a server application demonstrating three different threading architectures (single-threaded, multi-threaded, and thread-pooled) using Java's socket programming and concurrency frameworks.
     * Implemented thread pooling and connection management to optimize server resources, supporting concurrent client connections with proper resource cleanup.
