@@ -4,8 +4,6 @@
   <h3>Welcome to My Portfolio!</h3>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c48aa-8964-37e6fd45d227.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M2M2EzNTViLTMyMGItNDU0NS1iYjFhLTI3ODRjNWU2MWI4ZFwvZDljY2zndy01MWZlMjAzNi03YTRjLTQxMzgtOTE2LTE4OTBkYWU4YzFhMi5naWYiXX0sImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl19.9XbJtX5biFGjrjeIK74GZrt_bXSI96KYyxE14ddfnGY">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepranavanand&label=Profile%20views&color=0e75b6&style=flat" alt="thepranavanand" /> </p>
 
 I'm Pranav Anand, a **Computer Science graduate** passionate about technology and innovation.
@@ -69,12 +67,5 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 
 <p align="left">
 <a href="https://linkedin.com/in/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thepranavanand" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thepranavanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thepranavanand" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thepranavanand" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepranavanand" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thepranavanand/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thepranavanand/profile" height="30" width="40" /></a>
 </p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranavanand&" alt="thepranavanand" /></p>
