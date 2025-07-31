@@ -61,13 +61,5 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 
 ### Certifications
 
-* **Algorithmic Toolbox** By University of California San Diego and Offered through Coursera [July 2024]
+* [**Algorithmic Toolbox**](https://coursera.org/share/538df720463489dcb37ae90f6ea6811d) by University of California San Diego, offered through Coursera [July 2024]
 
----
-
-### Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thepranavanand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thepranavanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepranavanand" height="30" width="40" /></a>
-</p>
