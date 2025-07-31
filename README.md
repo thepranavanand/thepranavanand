@@ -22,10 +22,12 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 
 ### Key Highlights
 
-* **Codeforces:** Attained a peak rating of 1511 and secured Specialist title, placing consistently in the top 10% in multiple contests, including global rank 344 out of 21,836 in Round #1032.
-* **LeetCode:** Secured Knight rank (Top 6% globally) with a peak competition rating of 1848. Solved 500+ DSA problems and participated in 20+ coding contests.
-* **Codechef:** Achieved a max rating of 1615 and secured notable global ranks, including 62nd in Codechef Starters #100 and 141st in Codechef Starters #98.
-* **Runner-up at IIT Ropar Hackathon** (built a real-time health triage app)
+### Key Highlights
+
+* [**Codeforces**](https://codeforces.com/profile/thepranavanand): Attained a peak rating of 1511 and secured Specialist title, placing consistently in the top 10% in multiple contests, including global rank 344 out of 21,836 in Round #1032.
+* [**LeetCode**](https://leetcode.com/thepranavanand): Secured Knight rank (Top 6% globally) with a peak competition rating of 1848. Solved 500+ DSA problems and participated in 20+ coding contests.
+* [**Codechef**](https://www.codechef.com/users/thepranavanand): Achieved a max rating of 1615 and secured notable global ranks, including 62nd in Codechef Starters #100 and 141st in Codechef Starters #98.
+* **Runner-up at IIT Ropar Hackathon** (built a real-time health triage app) [**Certificate**](https://drive.google.com/file/d/1JsQYHmC3NkNaAlmsGgfgY47vg3FlOLL-/view?usp=sharing)
 
 ---
 
