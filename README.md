@@ -36,10 +36,10 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
     * Engineered execution graph panel for workflow visualization within chat conversations, enabling task dependency tracking, message linking, and project progression monitoring through interactive task lists integrated into the messaging interface.
     * Implemented WebSocket connection pooling supporting concurrent one-on-one chat sessions for 200+ simultaneous users, achieving 99.9% uptime through efficient socket management and real-time message delivery.
     * Integrated real-time file-sharing system handling up to 100MB files with dual storage architecture using Cloudinary and MongoDB GridFS, supporting 50+ concurrent file transfers across active user conversations with progress tracking.
-* **MultiThreaded Web Server with Dynamic Request Handling** | Java
-    * Developed a server application demonstrating three different threading architectures (single-threaded, multi-threaded, and thread-pooled) using Java's socket programming and concurrency frameworks.
-    * Implemented thread pooling and connection management to optimize server resources, supporting concurrent client connections with proper resource cleanup.
-    * Designed simple client-server communication protocol with message exchange and connection handling, demonstrating scalability differences between threading approaches.
+* [**MultiThreaded Web Server with Dynamic Request Handling**](https://github.com/thepranavanand/trafficflow-load-balancer) | Java  
+    * Implemented multiple threading models (single-threaded, multi-threaded, thread-pooled), basic routing logic with 6 preset load scenarios (10–200 clients), connection thresholds for light and medium load, and simple client request distribution with timeout handling.  
+    * Built a web dashboard using Server-Sent Events (SSE) for real-time updates, displaying server metrics, connection counts, and health status with basic HTML/CSS/JavaScript frontend and HTTP server integration.  
+    * Created a circuit breaker design with three states (CLOSED, OPEN, HALF_OPEN), failure counting mechanism with 5-failure threshold, 60-second timeout recovery, and integration with load balancer routing to prevent requests to failing servers.
 * **Get-Doctor** | Python, Streamlit, LLM Integration In Prototype: TypeScript, Next.js, Tailwind
     * Followed an Agile-inspired iterative approach with structured milestones and regular retrospection to guide redevelopment.
     * Implemented a doctor recommendation engine and rebuilt core system in TypeScript and Next.js, reducing symptom analysis time from 50s to under 2s.
