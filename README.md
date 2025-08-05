@@ -43,7 +43,7 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
 * [**MedAI**](https://github.com/thepranavanand/MedAI) | Next.js, TypeScript, MongoDB, Prisma, Tailwind CSS  
     * Developed a medical appointment booking platform with AI-powered symptom analysis achieving 95% accuracy in symptom classification, enabling patients to book appointments with specialized doctors through an intuitive interface that reduced booking time by 65%.  
     * Implemented multilingual symptom analysis using AI services with 87% precision in emergency detection, creating separate dashboards for patients and doctors with real-time appointment management and 99.2% system uptime.  
-    * Built a comprehensive healthcare system with user authentication, appointment scheduling, and doctor specialty matching achieving 88% matching accuracy, featuring responsive design for seamless patient-doctor interactions and 73% reduction in appointment cancellations.
+    * Built a comprehensive healthcare system with user authentication, appointment scheduling, and doctor specialty matching achieving 88% matching accuracy.
 
 
 ---
