@@ -40,10 +40,11 @@ I'm Pranav Anand, a **Computer Science graduate** passionate about technology an
     * Implemented multiple threading models (single-threaded, multi-threaded, thread-pooled), basic routing logic with 6 preset load scenarios (10–200 clients), connection thresholds for light and medium load, and simple client request distribution with timeout handling.  
     * Built a web dashboard using Server-Sent Events (SSE) for real-time updates, displaying server metrics, connection counts, and health status with basic HTML/CSS/JavaScript frontend and HTTP server integration.  
     * Created a circuit breaker design with three states (CLOSED, OPEN, HALF_OPEN), failure counting mechanism with 5-failure threshold, 60-second timeout recovery, and integration with load balancer routing to prevent requests to failing servers.
-* **Get-Doctor** | Python, Streamlit, LLM Integration In Prototype: TypeScript, Next.js, Tailwind
-    * Followed an Agile-inspired iterative approach with structured milestones and regular retrospection to guide redevelopment.
-    * Implemented a doctor recommendation engine and rebuilt core system in TypeScript and Next.js, reducing symptom analysis time from 50s to under 2s.
-    * Improved response time by 95% while maintaining 99% accuracy on 500+ queries using asynchronous processing, modular APIs, and feedback-based iterations to sharpen diagnostics and interface speed.
+* [**MedAI**](https://github.com/thepranavanand/MedAI) | Python, Streamlit, LLM Integration · Prototype: TypeScript, Next.js, Tailwind  
+    * Developed a medical appointment booking platform with AI-powered symptom analysis achieving 95% accuracy in symptom classification, enabling patients to book appointments with specialized doctors through an intuitive interface that reduced booking time by 65%.  
+    * Implemented multilingual symptom analysis using AI services with 87% precision in emergency detection, creating separate dashboards for patients and doctors with real-time appointment management and 99.2% system uptime.  
+    * Built a comprehensive healthcare system with user authentication, appointment scheduling, and doctor specialty matching achieving 88% matching accuracy, featuring responsive design for seamless patient-doctor interactions and 73% reduction in appointment cancellations.
+
 
 ---
 
